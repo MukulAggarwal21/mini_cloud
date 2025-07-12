@@ -132,8 +132,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-**Adarsh Tiwari** - [GitHub](https://github.com/adarsh1278) - Web Developer
+**Mukul Aggarwal** - [GitHub](https://github.com/MukulAggarwal21) - Web Developer
 
 ---
 
-Made with ❤️ by Adarsh Tiwari
+Made with ❤️ by Mukul Aggarwal
